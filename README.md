@@ -5,7 +5,7 @@ Baby JS deobfuscator specifically designed for streaming websites
 ### Read read read
 
 This deobfuscator could crash and not work on all sources.
-In the [test](https://github.com/giammirove/babydeob) folder there are working
+In the [test](https://github.com/giammirove/babydeob/tree/main/test) folder there are working
 examples from existing websites.
 
 ### How to install it
